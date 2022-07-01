@@ -1,4 +1,4 @@
-###Hello, my name is Vinicius Oliveira Bittencourt, and I'm a software developer student. I love technology and the way it can impact people's lives. Watch and learn about new technologies to make people life mor easy it's my passion. I love knowledge, when I'm not studying, I'm watching documentary's or reading some book about economy or policy.
+### Hello, my name is Vinicius Oliveira Bittencourt, and I'm a software developer student. I love technology and the way it can impact people's lives. Watch and learn about new technologies to make people life more easy it's my passion. I love knowledge, I always studing something that I think awsome!
 
 
 - 🔭 I’m currently working on Front - end development, with React, React Native, WordPress and obviously with the trinity Front - end (HTML, CSS and JS);
