@@ -22,8 +22,8 @@
 
 <h3 align="center">My GitHub Status:</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=viniciusoliveirabittencourt&show_icons=true&theme=dark&locale=en&layout=compact" alt="viniciusoliveirabittencourt" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=viniciusoliveirabittencourt&show_icons=true&theme=dark&locale=en&layout=compact" alt="viniciusoliveirabittencourt" /></p>
 
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=viniciusoliveirabittencourt&show_icons=true&theme=dark&locale=en" alt="viniciusoliveirabittencourt" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=viniciusoliveirabittencourt&show_icons=true&theme=dark&locale=en" alt="viniciusoliveirabittencourt" /></p>
 
-<p align="center"><img align="" src="https://github-readme-streak-stats.herokuapp.com/?user=viniciusoliveirabittencourt&theme=dark" alt="viniciusoliveirabittencourt" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=viniciusoliveirabittencourt&theme=dark" alt="viniciusoliveirabittencourt" /></p>
