@@ -1,20 +1,6 @@
 <h1 align="center">Hello, my name is Vinicius Bittencourt</h1>
-<h3 align="center">A passionate full-stack web developer</h3>
+<h2 align="center">A full-stack web developer</h2>
 <br />
-<br />
-
-- 🌱 I’m currently learning **MongoDB on Trybe**
-
-- 📫 How to reach me **viniciusbittencourt2003@gmail.com**
-
-- ⚡ Fun fact **I'm diabetic mellitus and I love to do sports to help in control of glicemy;**
-
-<br />
-<br />
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/viniciusoliveirabittencourt/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/viniciusoliveirabittencourt/" height="30" width="40" /></a>
-</p>
 
 <h3 align="center">Languages and Tools:</h3>
 <br />
@@ -22,8 +8,12 @@
 
 <h3 align="center">My GitHub Status:</h3>
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=viniciusoliveirabittencourt&show_icons=true&theme=dark&locale=en&layout=compact" alt="viniciusoliveirabittencourt" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=viniciusoliveirabittencourt&show_icons=true&theme=gotham&locale=en&layout=compact" alt="viniciusoliveirabittencourt" /></p>
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=viniciusoliveirabittencourt&show_icons=true&theme=dark&locale=en" alt="viniciusoliveirabittencourt" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=viniciusoliveirabittencourt&show_icons=true&theme=gotham&locale=en" alt="viniciusoliveirabittencourt" /></p>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=viniciusoliveirabittencourt&theme=dark" alt="viniciusoliveirabittencourt" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=viniciusoliveirabittencourt&theme="tokyonight_duo" alt="viniciusoliveirabittencourt" /></p>
+
+<h3 align="center">Linkedin:</h3>
+<p align="center">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/viniciusoliveirabittencourt/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/viniciusoliveirabittencourt/" height="30" width="40" /></a></p>
