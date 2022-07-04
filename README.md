@@ -8,11 +8,11 @@
 
 <h3 align="center">My GitHub Status:</h3>
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=viniciusoliveirabittencourt&show_icons=true&theme=gotham&locale=en&layout=compact" alt="viniciusoliveirabittencourt" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=viniciusoliveirabittencourt&show_icons=true&theme=midnight-purple&locale=en&layout=compact" alt="viniciusoliveirabittencourt" /></p>
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=viniciusoliveirabittencourt&show_icons=true&theme=gotham&locale=en" alt="viniciusoliveirabittencourt" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=viniciusoliveirabittencourt&show_icons=true&theme=midnight-purple&locale=en" alt="viniciusoliveirabittencourt" /></p>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=viniciusoliveirabittencourt&theme="tokyonight_duo" alt="viniciusoliveirabittencourt" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=viniciusoliveirabittencourt&theme=midnight-purple" alt="viniciusoliveirabittencourt" /></p>
 
 <h3 align="center">Linkedin:</h3>
 <p align="center">
