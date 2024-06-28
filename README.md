@@ -1,5 +1,5 @@
 <h1 align="center">Hello, my name is Vinicius Bittencourt</h1>
-<h2 align="center">A full-stack web developer</h2>
+<h2 align="center">I'm a software engineering student</h2>
 <br />
 
 <h3 align="center">Linkedin:</h3>
