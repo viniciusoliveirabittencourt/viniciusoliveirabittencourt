@@ -1,5 +1,5 @@
 <h1 align="center">Hello, my name is Vinicius Bittencourt</h1>
-<h2 align="center">I'm an economics major who likes to code!</h2>
+<h2 align="center">I'm an economics major who likes computer science!</h2>
 <br />
 
 <h3 align="center">Linkedin:</h3>
